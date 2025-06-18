@@ -87,9 +87,9 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 ## 📫 Let's Connect!
 
 - 📧 Email: sakshamkashyapgame80@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(update your link)*  
-- 🧭 Portfolio: *(Coming Soon – GitHub Pages is a great option!)*  
-
+- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(I will add this very soon)* 
+- 🧭 Portfolio: *(I will add this very soon)*
+- 🌟 Instagram: thesxkway_0711vein
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0x8nD/giphy.gif" width="280" alt="Let's Connect GIF">
 </p>
