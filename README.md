@@ -92,9 +92,9 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 ### 🔢 Current Contribution Stats
 
 - 🗓️ **Total Contributions (Last 12 Months):** 85  
-- 📅 **Most Active Months:** May 2025, June 2025  
+- 📅 **Most Active Month:** June 2025  
 - 🚀 **Recent Activity:**  
-  - ✅ Consistent contributions starting May 2025
+  - ✅ Consistent contributions starting June 2025
   - ✅ Actively committing personal projects and practicing regularly
 - 🌱 **Focus Area:** Building small projects to solidify Python fundamentals, Git proficiency, and version control workflow.
 
@@ -102,7 +102,7 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 
 ---
 
-> 💡 *"My contribution graph may be small today — but it's growing every week as I continue learning, coding, and building my developer journey."*
+> 💡 **"My contribution graph may be small today — but it's growing every week as I continue learning, coding, and building my developer journey."**
 
 ---
 
