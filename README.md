@@ -2,6 +2,16 @@
 <h3 align="center">🚀 Passionate Coder | 📚 2nd Year CS Student at UPES | 👨‍💻 Lifelong Learner</h3>
 
 <p align="center">
+  <a href="mailto:sakshamkashyapgame80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/sakshamkashyap">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
+  <!-- Add LinkedIn badge once available -->
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding Animation">
 </p>
 
@@ -9,7 +19,8 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I’m Saksham, a highly motivated and curious Computer Science undergrad currently in my second year at **University of Petroleum and Energy Studies (UPES)**. I’m passionate about building cool tech, solving real-world problems through code, and continuously learning new technologies that make development faster, smarter, and cleaner.
+Hello! I’m Saksham, a highly motivated and curious Computer Science undergrad currently pursuing my 2nd year at **University of Petroleum and Energy Studies (UPES)**.  
+I’m passionate about building innovative tech solutions, solving real-world problems through code, and continuously exploring technologies that enhance development speed, efficiency, and code quality.
 
 ### 🎯 My Mission:
 To become a full-stack developer and contribute meaningfully to the open-source community while growing as a professional coder.
@@ -75,21 +86,33 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkashyap&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9nem9zbmtjZmJpMTMyMTZ2amx0MHQ4Zno4bWt5bnZqcDZ6dWNtbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="300" alt="Working Hard GIF">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamkashyap&theme=tokyonight" alt="GitHub Streak Stats"/>
-</p>
+### 🔢 Current Contribution Stats
+
+- 🗓️ **Total Contributions (Last 12 Months):** 85  
+- 📅 **Most Active Months:** May 2025, June 2025  
+- 🚀 **Recent Activity:**  
+  - ✅ Consistent contributions starting May 2025
+  - ✅ Actively committing personal projects and practicing regularly
+- 🌱 **Focus Area:** Building small projects to solidify Python fundamentals, Git proficiency, and version control workflow.
+
+
+
+---
+
+> 💡 *"My contribution graph may be small today — but it's growing every week as I continue learning, coding, and building my developer journey."*
 
 ---
 
 ## 📫 Let's Connect!
 
 - 📧 Email: sakshamkashyapgame80@gmail.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(I will add this very soon)* 
-- 🧭 Portfolio: *(I will add this very soon)*
+- 🌐 LinkedIn: *Coming Soon...*  
+- 🧭 Portfolio: *In progress — stay tuned!*  
 - 🌟 Instagram: thesxkway_0711vein
+
 <p align="center">
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0x8nD/giphy.gif" width="280" alt="Let's Connect GIF">
 </p>
@@ -118,3 +141,4 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 
 ⭐ **Thanks for visiting my profile!**  
 **If you like what you see, drop a ⭐ on one of my repositories or connect with me. Let's build something amazing together!**
+
