@@ -91,7 +91,7 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 
 ### 🔢 Current Contribution Stats
 
-- 🗓️ **Total Contributions (Last 12 Months):** 85  
+- 🗓️ **Total Contributions (Last 12 Months):** 103 
 - 📅 **Most Active Month:** June 2025  
 - 🚀 **Recent Activity:**  
   - ✅ Consistent contributions starting June 2025
