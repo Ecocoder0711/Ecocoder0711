@@ -8,7 +8,6 @@
   <a href="https://github.com/sakshamkashyap">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   </a>
-  <!-- Add LinkedIn badge once available -->
 </p>
 
 <p align="center">
@@ -75,11 +74,20 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 - 💰 **Expense Tracker** – CLI-based project to add, manage, and log expenses. Reinforced file handling and user input management.  
 - ✅ **To-Do List Manager** – A terminal-based task manager that lets users add, mark, or delete tasks. Focused on logic, control flow, and data persistence.
 
-> These projects are all part of my journey to master Python through practical problem-solving.
-
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Building Projects Animation">
 </p>
+
+---
+
+## 🏆 Achievements & Recognitions
+
+- 🥇 **Top 5 Performer** in **UPES ACM’s “21 Days of Code”** – Weekly Challenge  
+- 📅 Recognized for consistent coding, performance, and engagement during technical sprints  
+- 🧠 Focused on algorithmic problem-solving, Python scripting, and CLI-based utilities  
+- 👨‍💻 Secured **4th Rank** among hundreds of participating students  
+
+> This recognition fuels my drive to keep learning and stay consistent on my coding journey.
 
 ---
 
@@ -91,14 +99,12 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 
 ### 🔢 Current Contribution Stats
 
-- 🗓️ **Total Contributions (Last 12 Months):** 103 
+- 🗓️ **Total Contributions (Last 12 Months):** 103  
 - 📅 **Most Active Month:** June 2025  
 - 🚀 **Recent Activity:**  
-  - ✅ Consistent contributions starting June 2025
-  - ✅ Actively committing personal projects and practicing regularly
+  - ✅ Consistent contributions starting June 2025  
+  - ✅ Actively committing personal projects and practicing regularly  
 - 🌱 **Focus Area:** Building small projects to solidify Python fundamentals, Git proficiency, and version control workflow.
-
-
 
 ---
 
@@ -141,4 +147,3 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 
 ⭐ **Thanks for visiting my profile!**  
 **If you like what you see, drop a ⭐ on one of my repositories or connect with me. Let's build something amazing together!**
-
