@@ -115,7 +115,7 @@ Here are some of the mini-projects I’ve worked on to sharpen my Python skills:
 ## 📫 Let's Connect!
 
 - 📧 Email: sakshamkashyapgame80@gmail.com  
-- 🌐 LinkedIn: *Coming Soon...*  
+- 🌐 LinkedIn: https://www.linkedin.com/in/saksham-kashyap-8191b31b5/ 
 - 🧭 Portfolio: *In progress — stay tuned!*  
 - 🌟 Instagram: thesxkway_0711vein
 
