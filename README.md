@@ -34,20 +34,18 @@ To become a full-stack developer and contribute meaningfully to the open-source 
 
 Here are some tools, languages, and environments I’ve worked with so far:
 
-- **Languages**: Python 🐍 | C 🧱 | HTML5 🌐 | Shell Scripting ⚙️ | Bash 🖥️  
+- **Languages**: Python 🐍 | C 🧱 | HTML5 🌐  
 - **Version Control**: Git & GitHub 🌿  
 - **OS**: Comfortable with macOS Terminal 💻 and UNIX-like systems  
-- **Workflow Tools**: CLI tools, VSCode, Git CLI
+- **Workflow Tools**: VSCode, Git CLI
 
 ### 🧰 Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mac%20Terminal-000000?style=flat&logo=apple&logoColor=white"/>
 </p>
 
